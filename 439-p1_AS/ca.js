@@ -1,6 +1,10 @@
+/*ca.js
+Team AS - Andrea email; Sarah Nuno saritanu@csu.fullerton.edu
+File Description: created functions setup() and draw() to help create and display the 400x400 grid.
+*/
 
 
-	var cellAuto;
+var cellAuto;
 
 //will create the 400x400 grid
 function setup() 
