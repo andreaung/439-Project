@@ -1,5 +1,5 @@
 /*ca.js
-Team AS - Andrea Ung andreung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
+Team AS - Andrea Ung andreaung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
 File Description: created functions setup() and draw() to help create and display the 400x400 grid.
 */
 
