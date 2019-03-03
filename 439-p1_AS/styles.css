@@ -1,3 +1,9 @@
+/*styles.cs
+Team AS - Andrea Ung andreung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
+File Description: Helps align the html webpage to the center and provides a font style.
+*/
+
+
 body {
   text-align: center;
   font-family: sans-serif;
