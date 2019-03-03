@@ -1,6 +1,6 @@
 README: Project #1 - Cellular Rule 45
 Class: CPSC 439-01
-Team AS - Andrea Ung andreung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
+Team AS - Andrea Ung andreaung@csu.fullerton.edu; Sarah Nuno saritanu@csu.fullerton.edu
 ------------------------------------------------------------
 
 Project #1 required that we create a program that displays the generational progress of Wolfram's Rule-45 Cellular Automaton. We closely followed some online tutorials for creating the Cella rule 45 program. We decided to create an array that would go through each of the pixesl. We first initialized the array with all 0's and then changed top rows 200th cell to 1. We then created a generate() and rule() function inorder to go through the grid and check if each three cells (previous, current, next) match any of the rules. The last function is the display() function which goes through the array and adds the  corresponding color to the cell. We have a total of two javascript files (draw-stuff.js and ca.js), one css file (styles.css), and one html file (js-1.html).
